@@ -1,0 +1,13 @@
+{
+"FIO":{
+	"first name":"Roman",
+	"midle name":"Vladimirovich",
+	"last name":"Korevanov",
+	"age":"35",
+	"salary":"$2k"
+      }
+"pets":{
+	"cat":"murka",
+	"dog":"shrik"
+       }
+}
